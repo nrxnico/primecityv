@@ -171,3 +171,7 @@
 .hr-white {
   border-color: white;
 }
+
+.waiting-progress-bar {
+  background-image: linear-gradient( #AFFA64, #59AD05);
+}
