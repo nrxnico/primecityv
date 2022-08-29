@@ -1,0 +1,173 @@
+.logo-sm {
+  width: 50px;
+  height: 50px;
+}
+
+.logo-xs {
+  width: 32px;
+  height: 32px;
+}
+
+.heading {
+  margin: 15px;
+}
+
+.nav-bar {
+  padding: 0 0 4rem;
+}
+
+.nav-bar-no-padding {
+  padding: 0;
+}
+
+.nav-link {
+  color: #fff;
+}
+
+.nav-link-dark {
+  color: #000;
+  text-decoration: none;
+}
+
+.nav-link:hover {
+  color: #0D6EFD;
+}
+
+.nav-link-dark:hover {
+  color: #0D6EFD;
+}
+
+.big-heading {
+  font-size: 3.5rem;
+  line-height: 1.5;
+}
+
+.title-img {
+  width: 20rem;
+}
+
+.btn-img {
+  height: 2rem;
+}
+
+#title {
+  height: 40rem;
+}
+
+.news-link {
+  position: absolute;
+  bottom: 30px;
+  color: #fff;
+}
+
+.news-link:hover {
+  color: #0D6EFD;
+}
+
+.news-box {
+  position: relative;
+  min-height: 511px;
+  max-height: 511px;
+}
+
+#news {
+  padding: 5% 0;
+}
+
+.helper {
+  display: inline-block;
+  height: 100%;
+  vertical-align: middle;
+}
+
+.news-img {
+  position: absolute;
+  right: -70px;
+}
+
+.news-badge {
+  margin-top: 1.5rem;
+}
+
+#features {
+  padding: 5% 0;
+}
+
+.feature {
+  text-align: center;
+}
+
+.wrapper {
+  border: 1px black solid;
+  height: 300px;
+  width: 400px;
+}
+
+.car-img {
+  max-width: 100%;
+  max-height: 100%;
+}
+
+.waiting {
+  width: 100%;
+  height: 100%;
+  background-image: linear-gradient(to right, #1ED3FE, #123BDA);
+  position: relative;
+}
+
+.background {
+  padding: 7% 15%;
+}
+
+#nav-bar-wait {
+  padding: 0;
+}
+
+.center {
+  margin: 0;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  -ms-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+}
+
+.waiting-text {
+  color: #F2F4F7;
+  font-family: 'Montserrat', sans-serif;
+  font-weight: bold;
+  font-size: 75px;
+}
+
+.waiting-text-secondary {
+  color: #000;
+  color: rgba(0, 0, 0, 0.5);
+}
+
+.waiting-text-small {
+  font-size: 20px;
+  line-height: 1.5;
+
+}
+
+.waiting-image {
+  text-align: center;
+
+}
+
+.waiting-links {
+  text-align: center;
+}
+
+.programmierer-img {
+  margin: 3rem 0;
+  max-width: 100%;
+}
+
+.btn-waiting {
+  background-color: rgba(0, 0, 0, 0.5);
+}
+
+.hr-white {
+  border-color: white;
+}
